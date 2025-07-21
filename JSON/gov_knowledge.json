@@ -1,0 +1,20 @@
+[
+  {
+    "question": "How to renew NIC?",
+    "tags": ["NIC", "ID", "renew", "ජාතික හැඳුනුම්පත", "හැඳුනුම්පත", "නවීකරණය"],
+    "keywords": ["nic renew", "id card renew", "ජාතික හැඳුනුම්පත නවීකරණය"],
+    "answer": "To renew your NIC, fill Form B and visit your Divisional Secretariat with your old NIC, birth certificate, and two passport-sized photos."
+  },
+  {
+    "question": "How to get a new passport?",
+    "tags": ["passport", "පුරවැසි ගොනුව", "මිනුම්පත", "පස්පෝට්"],
+    "keywords": ["new passport sri lanka", "passport application"],
+    "answer": "You can apply online at www.immigration.gov.lk or visit the Department of Immigration and Emigration with your birth certificate, NIC, and two photos."
+  },
+  {
+    "question": "How to get a police clearance certificate?",
+    "tags": ["police clearance", "පොලිස් සහතිකය", "sahathikaya", "clearance report"],
+    "keywords": ["police report sri lanka", "police clearance form", "පොලිස් සහතිකය ලබාගන්න"],
+    "answer": "Visit www.police.lk and go to the 'Clearance Certificates' section. Register and submit the required documents online, including NIC and proof of address."
+  }
+]
